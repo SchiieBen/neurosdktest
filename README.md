@@ -1,3 +1,3 @@
 # neurosdktest
-Teste de implementação da neurosdk em jogos
-Possibilidades: Jogos da gamejam, ace attorney, plague inc, CIV?
+Soon the use of the neurosdk in games 
+Possibilities: Jogos da gamejam, ace attorney, plague inc, CIV?
