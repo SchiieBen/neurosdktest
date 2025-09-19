@@ -1,5 +1,4 @@
 # neurosdktest 
-The plan is to use the neuro API into any game
-Not doing it for a while since i need to learn some important stuff
-Some work to do so I don't have much time
-
+The plan is to integrate the neuro API into my game
+I have some stuff to do so I can`t do that now (19/09/25)
+Be patient
